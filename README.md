@@ -1,2 +1,2 @@
 # Tetris in React
-Link - http://roonarayan.me/React-Tetris/
+Link - https://bitoffabyte.github.io/React-Tetris
